@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Image Face Detector using React App and Clarifai API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
